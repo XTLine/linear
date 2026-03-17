@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Linear",
+		"description": "XTLine 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "XTLine"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/XTLine",
 			"label": "Github",
 			"order": 3
 		},
